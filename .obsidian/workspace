@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5b421fc63a573394",
+        "id": "2c3df0a37466282d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Frontend Interview/CSS/position.md",
+            "file": "Jobs/job-tiktok.md.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Interview/CSS/position.md",
+                "file": "Jobs/job-tiktok.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Interview/CSS/position.md",
+                "file": "Jobs/job-tiktok.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Interview/CSS/position.md"
+                "file": "Jobs/job-tiktok.md.md"
               }
             }
           },
@@ -133,18 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 320
   },
-  "active": "5b421fc63a573394",
+  "active": "2c3df0a37466282d",
   "lastOpenFiles": [
+    "Jobs/job-tiktok.md.md",
     "Frontend Interview/CSS/position.md",
+    "Interview Kanban.md",
+    "Frontend Interview/JavaScript/dom.md",
+    "Jobs/BC/index.md.md",
+    "Frontend Interview/JavaScript/js-root.md.md",
     "Frontend Interview/CSS/css-root.md.md",
     "2022-02-15.md",
-    "Interview Kanban.md",
-    "Frontend Interview/JavaScript/js-root.md.md",
     "Nuxt.js/3.x/init-nuxt3-app.md.md",
-    "Jobs/BC/index.md.md",
-    "with nuxt 3.md",
-    "Nuxt/3.x/init-nuxt3.md.md"
+    "with nuxt 3.md"
   ]
 }

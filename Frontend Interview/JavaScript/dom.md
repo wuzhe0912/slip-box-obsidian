@@ -1,4 +1,3 @@
-# Javascript review
+# DOM
 
 > tags: #JavaScript
-
