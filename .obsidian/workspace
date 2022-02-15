@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9a360d10e885753e",
+        "id": "5b421fc63a573394",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "with nuxt 3.md",
+            "file": "Frontend Interview/CSS/position.md",
             "mode": "source",
             "source": false
           }
@@ -69,25 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "with nuxt 3.md",
+                "file": "Frontend Interview/CSS/position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b928fa74b4782778",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
               }
             }
           },
@@ -97,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "with nuxt 3.md",
+                "file": "Frontend Interview/CSS/position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,19 +98,52 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "with nuxt 3.md"
+                "file": "Frontend Interview/CSS/position.md"
               }
+            }
+          },
+          {
+            "id": "284483a61b4be0d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7bb977b94ce801c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b78d0a50bc5f1e8e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "9a360d10e885753e",
+  "active": "5b421fc63a573394",
   "lastOpenFiles": [
+    "Frontend Interview/CSS/position.md",
+    "Frontend Interview/CSS/css-root.md.md",
+    "2022-02-15.md",
+    "Interview Kanban.md",
+    "Frontend Interview/JavaScript/js-root.md.md",
+    "Nuxt.js/3.x/init-nuxt3-app.md.md",
+    "Jobs/BC/index.md.md",
     "with nuxt 3.md",
     "Nuxt/3.x/init-nuxt3.md.md"
   ]
