@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jobs/job-tiktok.md.md",
+            "file": "src/checklist/daily/2022-03-15.md",
             "mode": "source",
             "source": false
           }
@@ -50,6 +50,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "387fc04f897e27e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4509795674ab0b67",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/job-tiktok.md.md",
+                "file": "src/checklist/daily/2022-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/job-tiktok.md.md",
+                "file": "src/checklist/daily/2022-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/job-tiktok.md.md"
+                "file": "src/checklist/daily/2022-03-15.md"
               }
             }
           },
@@ -112,24 +126,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "e7bb977b94ce801c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b78d0a50bc5f1e8e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -137,15 +136,15 @@
   },
   "active": "2c3df0a37466282d",
   "lastOpenFiles": [
+    "src/checklist/daily/2022-03-15.md",
+    "checklist/daily/2022-03-14.md",
+    "checklist/daily/template.md",
     "Jobs/job-tiktok.md.md",
     "Daily Checklist/2022-02-17.md",
     "Interview Kanban.md",
     "Frontend Interview/CSS/position.md",
     "Frontend Interview/JavaScript/dom.md",
     "Jobs/BC/index.md.md",
-    "Frontend Interview/JavaScript/js-root.md.md",
-    "Frontend Interview/CSS/css-root.md.md",
-    "2022-02-15.md",
-    "Nuxt.js/3.x/init-nuxt3-app.md.md"
+    "Frontend Interview/JavaScript/js-root.md.md"
   ]
 }
