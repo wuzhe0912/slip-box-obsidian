@@ -1,4 +1,5 @@
 {
-  "folder": "src/checklist/daily",
-  "autorun": true
+  "folder": "src/checklist/01-daily",
+  "autorun": true,
+  "template": "src/checklist/00-template/daily-template"
 }

@@ -5,6 +5,6 @@
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
   "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "src/checklist/weekly",
+  "weeklyNoteFolder": "src/checklist/02-weekly",
   "localeOverride": "zh-tw"
 }
