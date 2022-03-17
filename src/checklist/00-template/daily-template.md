@@ -8,6 +8,10 @@
 
 ## Learning
 
+### Reading
+
+- [ ] reading 10 page.(Soft Skills 軟實力｜軟體開發人員的生存手冊)
+
 ### Interview
 
 - [ ] tiktok interview question - 1
