@@ -84,7 +84,53 @@
   "right": {
     "id": "322c202fd65cbc7d",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "e83320bb378dcb62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4053c5568b4891cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/checklist/01-daily/2022-03-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "049671366d5b1e3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/checklist/01-daily/2022-03-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd7c3b80bce4779c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/checklist/01-daily/2022-03-16.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 320,
     "collapsed": true
