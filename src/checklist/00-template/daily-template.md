@@ -2,21 +2,21 @@
 
 [[]]
 
-## Todo
-
-- [ ]
-
 ## Learning
 
 ### Reading
 
-- [ ] reading 10 page.(Soft Skills 軟實力｜軟體開發人員的生存手冊)
+> read 10 pages daily and compile them into a summary
+
+#### books
+
+- [ ] Soft Skills 軟實力｜軟體開發人員的生存手冊
+- [ ] 人類群星閃耀時
 
 ### Interview
 
 - [ ] tiktok interview question - 1
 - [ ] tiktok interview question - 2
-- [ ] tiktok interview question - 3
 
 ## Health
 
