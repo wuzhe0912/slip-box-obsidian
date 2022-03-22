@@ -15,8 +15,8 @@
 
 ### Interview
 
-- [ ] tiktok interview question - 1
-- [ ] tiktok interview question - 2
+- [ ] interview question - 1
+- [ ] interview question - 2
 
 ## Health
 

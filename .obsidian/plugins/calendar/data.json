@@ -4,7 +4,7 @@
   "wordsPerDot": 250,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "",
+  "weeklyNoteTemplate": "src/checklist/00-template/01-weekly-template",
   "weeklyNoteFolder": "src/checklist/02-weekly",
   "localeOverride": "zh-tw"
 }
