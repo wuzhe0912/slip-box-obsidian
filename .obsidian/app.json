@@ -8,5 +8,6 @@
   "strictLineBreaks": true,
   "spellcheck": false,
   "tabSize": 2,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

@@ -9,6 +9,7 @@
 ## Practical work
 
 - [ ] React
+	- [ ] [React with FFMPEG](https://youtu.be/XDHdxVq402k)
 - [ ] Redux
 - [ ] TypeScript
 - [ ] Websocket
