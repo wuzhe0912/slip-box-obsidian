@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/checklist/01-daily/03-25.md",
+            "file": "src/checklist/02-weekly/2022-W12.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/checklist/01-daily/03-25.md",
+                "file": "src/checklist/02-weekly/2022-W12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/checklist/01-daily/03-25.md",
+                "file": "src/checklist/02-weekly/2022-W12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/checklist/01-daily/03-25.md"
+                "file": "src/checklist/02-weekly/2022-W12.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "2c3df0a37466282d",
   "lastOpenFiles": [
-    "src/checklist/01-daily/03-25.md",
-    "src/checklist/01-daily/03-23.md",
-    "src/checklist/01-daily/03-22.md",
-    "src/checklist/01-daily/03-24.md",
-    "src/summary/00-soft-skill.md",
+    "src/checklist/02-weekly/2022-W12.md",
+    "src/checklist/01-daily/0321-0327/03-27.md",
+    "src/checklist/01-daily/0321-0327/03-21.md",
+    "src/checklist/01-daily/0321-0327/03-26.md",
     "src/summary/01-star-moments-humanity.md",
-    "src/goal/00-update-resume.md",
-    "src/checklist/02-weekly/2022-W13.md",
-    "src/checklist/01-daily/2022-03-22.md",
-    "src/checklist/02-weekly/2022-W12.md"
+    "src/checklist/01-daily/0321-0327/03-25.md",
+    "src/checklist/01-daily/0321-0327/03-23.md",
+    "src/checklist/01-daily/0321-0327/03-22.md",
+    "src/checklist/01-daily/0321-0327/03-24.md",
+    "src/summary/00-soft-skill.md"
   ]
 }
