@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/checklist/02-weekly/2022-W14.md",
+            "file": "src/summary/00-soft-skill.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/checklist/02-weekly/2022-W14.md",
+                "file": "src/summary/00-soft-skill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/checklist/02-weekly/2022-W14.md",
+                "file": "src/summary/00-soft-skill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/checklist/02-weekly/2022-W14.md"
+                "file": "src/summary/00-soft-skill.md"
               }
             }
           }
@@ -137,6 +137,7 @@
   },
   "active": "2c3df0a37466282d",
   "lastOpenFiles": [
+    "src/summary/00-soft-skill.md",
     "src/checklist/02-weekly/2022-W14.md",
     "src/checklist/01-daily/04-01.md",
     "src/checklist/01-daily/03-31.md",
@@ -145,7 +146,6 @@
     "src/checklist/00-template/01-weekly-template.md",
     "src/checklist/00-template/02-monthly-template.md",
     "src/checklist/01-daily/03-28.md",
-    "src/checklist/01-daily/03-29.md",
-    "Untitled.md"
+    "src/checklist/01-daily/03-29.md"
   ]
 }
