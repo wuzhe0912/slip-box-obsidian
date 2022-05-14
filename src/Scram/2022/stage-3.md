@@ -9,12 +9,13 @@
   - [ ] chapter 5 : basic project
 - [ ] Real-time code editor(about 4 hours)
 - [ ] javascript interview question(at least 20)
-  - [ ] The Fibonacci E 
+  - [ ] The Fibonacci
 
 ## Health & Sport
 
 - [ ] Daily follow 168
 - [ ] 有氧拳擊 x 45 mins(at least 8)
-  - [x] 有氧拳擊 x 45 mins - 1
-  - [x] 有氧拳擊 x 45 mins - 2
-  - [ ] 有氧拳擊 x 45 mins - 3
+  - [x] 有氧拳擊 x 45 mins - 1(三)
+  - [x] 有氧拳擊 x 45 mins - 2(四)
+  - [x] 有氧拳擊 x 45 mins - 3(五)
+  - [x] 有氧拳擊 x 45 mins - 4(六)
