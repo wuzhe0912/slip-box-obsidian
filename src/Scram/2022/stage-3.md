@@ -2,11 +2,11 @@
 
 ## Technology
 
-- [ ] Travel E-Commerce Platform(React + TS)
-  - [ ] chapter 1-2 : basic environment setting
-  - [ ] chapter 3 : basic React & TypeScript
-  - [ ] chapter 4 : React Hooks
-  - [ ] chapter 5 : basic project
+- [ ] Modern React with Redux
+  - [ ] section 1 - section 2
+  - [ ] section 3
+  - [ ] section 4
+  - [ ] section 5
 - [ ] Real-time code editor(about 4 hours)
 - [ ] javascript interview question(at least 20)
   - [ ] The Fibonacci
