@@ -18,7 +18,6 @@
   - [x] 8. review Why `v-for` must setting key value ?
   - [x] 9. review What’s the `Vue.use()` ?
   - [x] 10. review What’s `keep-alive` ? How to use ?
-  - [ ] The Fibonacci
 
 ## Health & Sport
 
@@ -32,6 +31,6 @@
   - [x] 有氧拳擊 x 45 mins - 7(二)
   - [x] 有氧拳擊 x 45 mins - 8(三)
   - [x] 有氧拳擊 x 45 mins - 9(四)
-  - [ ] 有氧拳擊 x 45 mins - 10(五)
+  - [x] 有氧拳擊 x 45 mins - 10(五)
   - [ ] 有氧拳擊 x 45 mins - 11(六)
   - [ ] 有氧拳擊 x 45 mins - 12(日)
