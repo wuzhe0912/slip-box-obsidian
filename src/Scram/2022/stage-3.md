@@ -2,12 +2,10 @@
 
 ## Technology
 
-- [ ] Modern React with Redux
+- [x] Modern React with Redux
   - [x] section 1 - section 2
   - [x] section 3
-  - [ ] section 4
-  - [ ] section 5
-- [ ] javascript interview question(at least 20)
+- [x] javascript interview question(at least 14)
   - [x] 1. review vue2 lifecycle
   - [x] 2. review What’s the difference between `created` and `mounted` ?
   - [x] 3. review Why say Vue.js is one-way data flow ?
@@ -18,6 +16,10 @@
   - [x] 8. review Why `v-for` must setting key value ?
   - [x] 9. review What’s the `Vue.use()` ?
   - [x] 10. review What’s `keep-alive` ? How to use ?
+  - [x] 11. review closure
+  - [x] 12. review IIFE
+  - [x] 13. review scope of variable
+  - [x] 14. review hoisting
 
 ## Health & Sport
 
@@ -32,5 +34,5 @@
   - [x] 有氧拳擊 x 45 mins - 8(三)
   - [x] 有氧拳擊 x 45 mins - 9(四)
   - [x] 有氧拳擊 x 45 mins - 10(五)
-  - [ ] 有氧拳擊 x 45 mins - 11(六)
+  - [x] 有氧拳擊 x 45 mins - 11(六)
   - [ ] 有氧拳擊 x 45 mins - 12(日)
