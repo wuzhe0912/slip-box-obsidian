@@ -3,7 +3,7 @@
 ## Technology
 
 - [x] review interview questions - deadline 6/16
-- [ ] Socket.io with TypeScript to build mini game - deadline 6/24
+- [ ] build simple crud app with json-server and deploy on Heroku - deadline 6/22
 - [ ] complete typescript with socket.io to build simple chat app
 - [ ] clone instagram use react(redux) with typescript
 
