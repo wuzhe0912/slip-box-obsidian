@@ -1,10 +1,12 @@
 # Stage 6 (06/27 - 07/03)
 
-## Technology
+## Technologies
 
-- [ ] LeetCode easy level interview questions
+### Interview
 
-### Outline
+- [ ] 1. LeetCode easy level interview questions
+
+### Advanced outline
 
 - [ ] 1. build crud app v1(json-server).
 - [ ] 2. inheritance of v1, and use typescript to build v2 version.
